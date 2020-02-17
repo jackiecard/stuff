@@ -1,0 +1,10 @@
+@import "atoms/index";
+@import "molecules/index";
+
+::placeholder {
+  color: gray;
+}
+
+.amp {
+  background: blue;
+}
